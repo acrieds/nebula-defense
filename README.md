@@ -1,7 +1,7 @@
  
 
 
-# _**> Play Nebula Defense at [https://acrieds.github.io/nebula-defense/](https://acrieds.github.io/nebula-defense/)**_
+# Play Nebula Defense at [https://acrieds.github.io/nebula-defense/](https://acrieds.github.io/nebula-defense/)
 
 ## Use as Extension
 This repository can be added as an ***extension*** in MakeCode.
