@@ -1,9 +1,9 @@
  
 
 
-_**> Open this page at [https://acrieds.github.io/nebula-defense/](https://acrieds.github.io/nebula-defense/)**_
+# _**> Play Nebula Defense at [https://acrieds.github.io/nebula-defense/](https://acrieds.github.io/nebula-defense/)**_
 
-# Use as Extension
+## Use as Extension
 This repository can be added as an ***extension*** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
@@ -11,7 +11,7 @@ This repository can be added as an ***extension*** in MakeCode.
 * search for **https://github.com/acrieds/nebula-defense** and import
 
 
-## Controls
+### Controls
 **Shoot:** SPACE bar (A)
 **Move left:** LEFT arrow key (Joystick left)
 **Move right:** RIGHT arrow key (Joystick right)
